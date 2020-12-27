@@ -2,7 +2,7 @@
 Calculates, displays human reaction time to a flashing light.
 
 Date: November 2, 2020
-Instructions: Create a new Vivado project and add the three files.
+Instructions: Create a new Vivado project and add the three files. Be sure to use Nexys A7
 Project Name: Reaction Timer
 
 
